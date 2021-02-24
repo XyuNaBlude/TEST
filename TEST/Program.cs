@@ -10,7 +10,7 @@ namespace TEST
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("M");
+            Console.WriteLine("1");
             Console.ReadKey();
         }
     }
